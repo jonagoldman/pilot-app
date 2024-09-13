@@ -3,11 +3,11 @@
 ## Instalación
 1. Clonar el repositorio
     ```bash
-    git clone https://github.com/jonagoldman/laravel-api.git
+    git clone https://github.com/jonagoldman/pilot-app.git
     ```
 2. Navegar dentro de la nueva carpeta
     ```bash
-    cd laravel-api
+    cd pilot-app
     ```
 3. Requerir dependencias
     ```bash
